@@ -55,11 +55,11 @@ Menggabungkan seluruh genre dari setiap film menjadi satu kolom.
 
 #### Directors, Genres, dan Movies
 
-![Query 2.1](first.png)
+![Query 2.1](query2.1.png)
 
 #### Actors, Roles, dan Movies
 
-![Query 2.2](second.png)
+![Query 2.2](query2.2.png)
 
 ---
 
