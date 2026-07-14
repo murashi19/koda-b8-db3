@@ -43,11 +43,11 @@ Menggabungkan seluruh genre dari setiap film menjadi satu kolom.
 
 #### List Movies
 
-![Query 1.1](query1.1.png)
+![Query 1.1](img/query1.1.png)
 
 #### Total Movies
 
-![Query 1.2](query1.2.png)
+![Query 1.2](img/query1.2.png)
 
 ---
 
@@ -55,11 +55,11 @@ Menggabungkan seluruh genre dari setiap film menjadi satu kolom.
 
 #### Directors, Genres, dan Movies
 
-![Query 2.1](query2.1.png)
+![Query 2.1](img/query2.1.png)
 
 #### Actors, Roles, dan Movies
 
-![Query 2.2](query2.2.png)
+![Query 2.2](img/query2.2.png)
 
 ---
 
@@ -67,23 +67,23 @@ Menggabungkan seluruh genre dari setiap film menjadi satu kolom.
 
 #### Director dan Total Genre
 
-![Query 3.1](query3.1.png)
+![Query 3.1](img/query3.1.png)
 
 #### Actors dengan Role > 5
 
-![Query 3.2](query3.2.png)
+![Query 3.2](img/query3.2.png)
 
 #### Director Paling Produktif
 
-![Query 3.3](query3.3.png)
+![Query 3.3](img/query3.3.png)
 
 #### Tahun Tersibuk
 
-![Query 3.4](query3.4.png)
+![Query 3.4](img/query3.4.png)
 
 #### Movies dengan STRING_AGG Genre
 
-![Query 3.5](query3.5.png)
+![Query 3.5](img/query3.5.png)
 
 ## Teknologi
 
